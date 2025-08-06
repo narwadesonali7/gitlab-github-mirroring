@@ -149,6 +149,5 @@ Repositories on both GitHub and GitLab are synced via GitLab's push mirroring.
 Every commit pushed to GitLab is automatically mirrored to GitHub.
 
 This setup helps in maintaining centralized control while leveraging GitHub visibility.
-
-# Conclusion :
+## Conclusion :
 This project successfully demonstrates GitLab-to-GitHub repository mirroring using secure token-based authentication and a simple HTML project structure.
