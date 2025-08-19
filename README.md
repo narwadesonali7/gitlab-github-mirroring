@@ -1,4 +1,4 @@
-# 🔁 GitLab ↔ GitHub Repository Mirroring Project
+# 🚀 GitLab ↔ GitHub Repository Mirroring Project
 
 This project demonstrates the complete setup of repository mirroring from **GitLab to GitHub**. It includes:
 - Creating repositories on both platforms
