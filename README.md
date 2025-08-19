@@ -8,7 +8,7 @@ This project demonstrates the complete setup of repository mirroring from **GitL
 - Ensuring changes in GitLab reflect automatically in GitHub
 ---
 
-## 🚀 Features
+##  Features
 
 -  GitLab to GitHub push-based mirroring
 -  Secure authentication using GitHub personal access tokens
