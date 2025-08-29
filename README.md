@@ -36,6 +36,7 @@ The purpose of this project is to:
 ---
 ##  Project Description :
 The goal of this project is to:
+
 - Create and push basic HTML files to a GitLab repository.
 - Set up **repository mirroring** from GitLab to GitHub.
 - Ensure changes in GitLab are automatically pushed to GitHub using a **GitHub personal access token**.
